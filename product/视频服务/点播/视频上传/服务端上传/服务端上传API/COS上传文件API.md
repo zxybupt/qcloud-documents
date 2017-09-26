@@ -1,4 +1,4 @@
-## 接口名称
+<!-- ## 接口名称
 
 ### 上传小文件（小于20MB）使用的 API
 1. [简单上传文件](/document/api/436/6066)
@@ -28,4 +28,6 @@ Authorization: <multi_effect_signature>
 语法中的以下变量取值 [VOD发起上传的返回结果](/document/product/266/9756#.E6.8E.A5.E5.8F.A3.E5.BA.94.E7.AD.94)：
 ```<bucket_name>```为**storageBucket**，```<Region>```为**storageRegion**，```/<bucket_name>[/dir_name]/<file_name>```为**video.storagePath**(对于封面文件为**cover.storagePath**)。
 其他的变量取值：
-```<appid>```为10022853，```<multi_effect_signature>```按照API的要求生成签名。
+```<appid>```为10022853，```<multi_effect_signature>```按照API的要求生成签名。 -->
+
+
